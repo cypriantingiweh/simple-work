@@ -1,1 +1,1 @@
-# simple-work git init
+Now that you have a place to add and share your space station files, you need a way to get to it from your local system. To set that up, you want to copy the Bitbucket repository to your system. Git refers to copying a repository as cloning it. When you clone a repository, you create a connection between the Bitbucket server (which Git knows as origin) and your local system.
